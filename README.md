@@ -1,6 +1,9 @@
 Skvalex CallRecorder Headset Fix for Nexus 4
 ===================================
 
+**Update:**  
+So skvalex has fixed this bug in version 1.5.3beta 11. That means this patch is no more required
+
 Why this patch?
 skvalex, a well know mastermind for creating 2way call recorder app and patches
 that supports his application.
